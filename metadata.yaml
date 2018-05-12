@@ -1,0 +1,33 @@
+_repo: Report-of-the-Proceedings-at-the-Examination-of-Charles-G.-Davis-Esq.-on-the-Charge-of-Aiding__31424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Davis, Charles G. (Charles Gideon)
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '34855'
+    url: http://www.gutenberg.org/2009/agents/34855
+  - agent_name: United States. Circuit Court (Massachusetts)
+    gutenberg_agent_id: '42613'
+    url: http://www.gutenberg.org/2009/agents/42613
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Fugitive slaves -- Legal status, laws, etc. -- Massachusetts -- Boston'
+- !lcsh 'Davis, Charles G. (Charles Gideon), 1820-1903 -- Trials, litigation, etc.'
+- !lcsh 'United States. Fugitive slave law (1850)'
+title: 'Report of the Proceedings at the Examination of Charles G. Davis, Esq., on
+  the Charge of Aiding and Abetting in the Rescue of a Fugitive Slave: Held in Boston,
+  in February, 1851.'
+url: http://www.gutenberg.org/ebooks/31424
